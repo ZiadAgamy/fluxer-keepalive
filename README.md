@@ -5,7 +5,7 @@ A self-bot that makes your Fluxer personal account online for 24/7 hours.
 1. Download this project.
 2. Rename `env.example` to `.env`.
 3. Edit `.env`:
-```js
+```txt
 FLUXER_USER_TOKEN=YOUR_USER_SESSION_TOKEN
 FLUXER_GATEWAY_URL=wss://YOUR_GATEWAY_HOST/?v=1&encoding=json
 ```
